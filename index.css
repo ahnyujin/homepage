@@ -1,0 +1,38 @@
+.menu {
+  background: rgba(0, 0, 0, 0.3) !important;
+  border:none;
+  padding:20px 0;
+}
+
+.nav>li>a {
+  color:white !important;
+}
+
+.navbar-brand{
+  color:white !important;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.feautured {
+  padding:200px 0 60px;
+  background: #B2CCFF;
+  color:#fdfdfd;
+}
+
+.align-center{
+  text-align: center;
+}
+
+.slogan{
+  font-size:48px;
+  font-weight:900;
+}
+.abc{
+    padding:200px 0 60px;
+    background:#747474;
+    text-align: center;
+    font-size:48px;
+    font-weight:900;
+    color:#fdfdfd;
+}

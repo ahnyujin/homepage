@@ -1,0 +1,19 @@
+body{
+  background: #B2CCFF;
+  color:white;
+}
+.container{
+  height:100%;
+}
+.vertical-align{
+  height:100%;
+  display: flex;
+  align-items: center;
+}
+
+.login_form_box{
+  background: rgba(0, 0, 0, 0.3) !important;
+  border:1px solid black;
+  border-radius:10px;
+  padding:70px 70px 70px 70px;
+}
